@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HtmlLib</string>
+
+
+    <string name="compass_url">file:///android_asset/compass.html</string>
+
+</resources>
