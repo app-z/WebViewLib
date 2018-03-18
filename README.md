@@ -10,6 +10,7 @@ Pass image to JavaScript
                         + "' align='center'/>";
                 mWebView.loadData(imgTag, "text/html", "utf-8");
 ```
+![QRCode](https://github.com/app-z/WebViewLib/blob/master/screenshots/Screenshot_20180318-024509.png)
 
 
 Compass Azimuth update callback
@@ -19,3 +20,5 @@ Compass Azimuth update callback
         AppUtils.callJavaScript(mWebView, COMPASS_ANGLE_FNC, currectAzimuth);
     }
 ```
+![Compass](https://github.com/app-z/WebViewLib/blob/master/screenshots/Screenshot_20180318-024441.png)
+
